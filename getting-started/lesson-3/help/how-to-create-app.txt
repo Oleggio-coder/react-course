@@ -1,0 +1,18 @@
+1st Variant:
+Create React App (CRA)
+
+
+2nd Variant:
+Vite (much faster)
+
+1 - npm create vite@latest (also npm create vite@4.2.0)
+2 - press 'y'
+3 - project name
+4 - select a framework
+5 - select a variant(language)
+
+done
+
+6 - cd (project name)
+7 - npm install (also npm i)
+8 - npm run dev
